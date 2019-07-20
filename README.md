@@ -63,6 +63,15 @@ Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por eje
 
 Sacar variables a partir de otras. Ejemplo muy simple: tengo metros del piso y precio, pues saco €/m2. 
 
+## Data cleaning & preparation process. 
+
+* Parseo.
+* Eliminación de duplicados.
+* Eliminación de claves duplicadas (ids).
+* Eliminar datos erróneos, incoherencias (los puede haber, es más normal de lo esperado). 
+* Hacer joins con otros datasets para obtener más datos. 
+* Después de modelar, se puede hacer limpiezza adicional. 
+
 ### Spark
 
 Se ejecuta en un clúster de forma distribuida. 
