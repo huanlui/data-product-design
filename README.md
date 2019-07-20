@@ -87,4 +87,6 @@ Problemas en sistemas distribuidos:
 
 Spark sse encarga de distribuit el trabajo entre cada nodo. 
 
+### Otros conceptos
 
+Función utilidad: es lo importante que para un usuario una determinada variable. Ver https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa)
