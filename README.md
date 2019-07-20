@@ -49,4 +49,6 @@ Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por eje
 * Cada reserva tiene una serie de features.
 * Cada vuelo tiene una serie de features. 
 
+### Spark
 
+Se ejecuta en un clúster de forma distribuida. 
