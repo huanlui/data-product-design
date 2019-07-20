@@ -87,12 +87,16 @@ Problemas en sistemas distribuidos:
 
 Spark sse encarga de distribuit el trabajo entre cada nodo. 
 
-### Otros conceptos
+### Función utilidad 
 
-Función utilidad: es lo importante que para un usuario una determinada variable. Ver https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa)
-
+Función utilidad: es lo _útil_ que para un usuario es una determinada observación (file, por ejemplo, unaf fila de vuelo). 
 Utilidad = baseline + beta_0 * variable_1 + beta_2 * variable_2
 
 Si utilidad > 0, consideramos que el usuario considera útil esa observación (ese oferta,por ejemplo). 
 
 baseline es un valor concreto de tuplas (variable_1,variable_2) que consideraremos nosotros que es la utilidad cero. 
+
+Ver:
+* Sobre todo,la presentación de este repo. 
+* https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa)
+
