@@ -58,6 +58,7 @@ Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por eje
 * Los datos estaban sucios (filas duplicadas tal cual, ids duplicados, etc.)
 * No estaban claro como se estaba haciendo el matching. 
 * Proyecto nuevo sin una ruta clara, necesitamos flexibilidad. EL problema es que tener flexibilidad con Big Data es más complicado. Si con cada cambio tengo que compilar, entrenar, pasarlo al cluster, etc. Para solucionar eso tienen Zepelling, que es un notebook. Con el notebook puedes hacer pruebas más rápidas, en lugar de hacer algo ya cerrado. Es decir, **usar un notebook para primeras fases y después ya lo pondrás bonito para _producción_**
+* Puede que haya tantos datos que no me quepan todos en memoria. Tengo que ser capaz de segmentar datos. Por ejemplo, puedo crear una _clave_, que puede ser compuesta (ejemplo: origen_destino) y enviar cada clave a un nodo diferente. Así, un nodo sólo gestionaría los MAD-BCN, otros los CUENCA-ALBACETE, etc. 
 
 ## Featura extraction
 
