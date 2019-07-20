@@ -28,13 +28,15 @@ Usar principios Agile, como por ejemplo:
 * Deep Learning (All or nothing)
 * Recomendadores. 
 
-## Importancia del front-end
+## Importancia del front-end, de presentar los datos
 
 Una buena **visualización** se va a vender genial. Una página web bien montada. Pero ojo, no olvidar el mínimo producto viable. 
 
 Hay científicos de datos muy buenos pero que después no son capaces de explicar o de sacarle un **valor real**. 
 
 Se capaz de resaltar los **puntos fuertes** del proyecto y **qué importancia de negocio** tiene. 
+
+Ya no sólo lo bonito que quede, sino, aún más importante, decir qué valor aportas. Por ejenplo, si eres capaz de extraer datos de muchos sutios distintos y al final tu resultado es un dataset, eso de por sí ya tiene mucho valor. Incluso más que el modelo posterior, que al final (simplificand mucho) es sólo aplicarlo. Lo importante es, a la hora de presentar tu dataset, es decir *por qué tiene ese valor*
 
 # Proyecto
 
