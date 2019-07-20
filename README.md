@@ -54,3 +54,10 @@ Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por eje
 Se ejecuta en un clúster de forma distribuida. 
 
 ![cluster](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2017/07/install-apache-spark-on-multi-node-cluster.jpg)
+
+Problemas en sistemas distribuidos:
+* Coordinación (estamos paralelizando, y hay que hacer que un)
+* Atomización de operaciones. 
+* Resilencia: tenemos que estar preparados para que un nodo se caiga.
+
+Spark sse encarga de distribuit el trabajo entre cada nodo. 
