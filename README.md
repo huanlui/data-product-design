@@ -1,1 +1,1 @@
-# data-product-design
+# Data Product Design
