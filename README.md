@@ -34,6 +34,19 @@ Una buena **visualización** se va a vender genial. Una página web bien montada
 
 Hay científicos de datos muy buenos pero que después no son capaces de explicar o de sacarle un **valor real**. 
 
-Se capaz de resaltar los **puntos fuertes** del proyecto. 
+Se capaz de resaltar los **puntos fuertes** del proyecto y **qué importancia de negocio** tiene. 
+
+# Proyecto
+
+Compañía del mercado de viaje. Tiene muchos acceso a datos (tickets de viaje, inventarios de aerolíneas, etc.)
+
+Matched Shopping: tenemos por un dato una serie de búsquedas y por otro lado una serie de reservas. Hay que hacer un match para saber qué búsquedas acaban en reserva. Los datos que nos da ya están matcheados. Para cada búsqueda tenemos los resultados que salieron (recomendaciones) y de esas cuáles fueron reservadas. 
+
+Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por ejemplo, si influye más el precio que la compañía o que el número de escalas. 
+
+* Cada búsqueda tendrá una serie de features. 
+* Cada recomendación (resultado de búsqueda) tendrá una serie de features.
+* Cada reserva tiene una serie de features.
+* Cada vuelo tiene una serie de features. 
 
 
