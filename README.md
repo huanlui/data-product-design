@@ -71,6 +71,7 @@ Sacar variables a partir de otras. Ejemplo muy simple: tengo metros del piso y p
 * Eliminar datos erróneos, incoherencias (los puede haber, es más normal de lo esperado). Por ejemplo, había viajes disfrazados de one-way que eran en realidad round-way. 
 * Hacer joins con otros datasets para obtener más datos. 
 * Después de modelar, se puede hacer limpieza adicional. 
+* Descartar datos. Por ejeplo, me vienen datos en € y en $. Pues me quedo sólo con € y así simplifico el problema. Pero esto (pensando en lo que me dijo Henry) supone perder datos, con lo caros que están. Podría ser otra iteración posterior. 
 
 ### Spark
 
