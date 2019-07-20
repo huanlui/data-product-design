@@ -49,6 +49,16 @@ Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por eje
 * Cada reserva tiene una serie de features.
 * Cada vuelo tiene una serie de features. 
 
+## Problemas en el mundo real
+
+* Parser en python y sin diccionario. Se decidió al final en Spark (que es con Scala). Después está pyspark , un FW para trabajar en Python (más Frankestein).
+* Los datos eran complejos y encima anidados
+* Los datos estaban sucios (filas duplicadas tal cual, ids duplicados, etc.)
+* No estaban claro como se estaba haciendo el matching. 
+* Proyecto nuevo sin una ruta clara, necesitamos flexibilidad. EL problema es que tener flexibilidad con Big Data es más complicado. Si con cada cambio tengo que compilar, entrenar, pasarlo al cluster, etc. Para solucionar eso tienen Zepelling, que es un notebook. Con el notebook puedes hacer pruebas más rápidas, en lugar de hacer algo ya cerrado. Es decir, **usar un notebook para primeras fases y después ya lo pondrás bonito para _producción_**
+
+
+
 ### Spark
 
 Se ejecuta en un clúster de forma distribuida. 
@@ -61,3 +71,5 @@ Problemas en sistemas distribuidos:
 * Resilencia: tenemos que estar preparados para que un nodo se caiga.
 
 Spark sse encarga de distribuit el trabajo entre cada nodo. 
+
+
