@@ -68,9 +68,9 @@ Sacar variables a partir de otras. Ejemplo muy simple: tengo metros del piso y p
 * Parseo.
 * Eliminación de duplicados.
 * Eliminación de claves duplicadas (ids).
-* Eliminar datos erróneos, incoherencias (los puede haber, es más normal de lo esperado). 
+* Eliminar datos erróneos, incoherencias (los puede haber, es más normal de lo esperado). Por ejemplo, había viajes disfrazados de one-way que eran en realidad round-way. 
 * Hacer joins con otros datasets para obtener más datos. 
-* Después de modelar, se puede hacer limpiezza adicional. 
+* Después de modelar, se puede hacer limpieza adicional. 
 
 ### Spark
 
