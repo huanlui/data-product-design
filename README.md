@@ -34,4 +34,6 @@ Una buena **visualización** se va a vender genial. Una página web bien montada
 
 Hay científicos de datos muy buenos pero que después no son capaces de explicar o de sacarle un **valor real**. 
 
+Se capaz de resaltar los **puntos fuertes** del proyecto. 
+
 
