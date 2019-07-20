@@ -7,7 +7,7 @@ GDPR: No podemos poner DNI, Nombres, Apellidos, Tarjeta de crédito ni tampoco q
 Usar principios Agile, como por ejemplo:
 - Mínimo Producto Viable. 
 - Tener claro que vamos a tener que ir y volver. 
-- Checkpooints e hitos intermedios: por ejemplo, primero un OverView de mis datos, después limpiarlo, después sacar nuevas variables que dependen de anteriores. 
+- Checkpoints e hitos intermedios: por ejemplo, primero un OverView de mis datos, después limpiarlo, después sacar nuevas variables que dependen de anteriores. 
 - Poner fechas parano relajarse. 
 - Estar preparado para ir para atrás si llegamos a algo que no tiene sentido. 
 - Tener claro que en obtener/generar y limpiar los datos va a ser costoso. Tenerlo planificado. 
