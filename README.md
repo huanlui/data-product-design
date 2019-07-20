@@ -57,7 +57,9 @@ Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por eje
 * No estaban claro como se estaba haciendo el matching. 
 * Proyecto nuevo sin una ruta clara, necesitamos flexibilidad. EL problema es que tener flexibilidad con Big Data es más complicado. Si con cada cambio tengo que compilar, entrenar, pasarlo al cluster, etc. Para solucionar eso tienen Zepelling, que es un notebook. Con el notebook puedes hacer pruebas más rápidas, en lugar de hacer algo ya cerrado. Es decir, **usar un notebook para primeras fases y después ya lo pondrás bonito para _producción_**
 
+## Featura extraction
 
+Sacar variables a partir de otras. Ejemplo muy simple: tengo metros del piso y precio, pues saco €/m2. 
 
 ### Spark
 
