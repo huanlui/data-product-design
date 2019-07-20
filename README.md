@@ -52,3 +52,5 @@ Con esto, las aerolíneas podrían ver las preferencias de los clientes. Por eje
 ### Spark
 
 Se ejecuta en un clúster de forma distribuida. 
+
+![cluster](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2017/07/install-apache-spark-on-multi-node-cluster.jpg)
