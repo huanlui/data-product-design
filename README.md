@@ -15,10 +15,15 @@ Usar principios Agile, como por ejemplo:
 ## Fases
 
 1. Data Cleaning. Obtener, quitar NAs, fechas, etc. 
+
+![](https://miro.medium.com/max/736/1*hTBA7atA6VtSLgbpJWmO9g.jpeg)
+
 2. Data Processing. Prepararlos para el modelo, extraer variables a partir de otras, etc.
 3. Visualización. Tablas, gráficos, etc. para entender un poco los datos. Hay unos notebooks para Spark que se llaman Zepellin. Tiene integrado visualización de de datos que saquemos de alguna query. 
 4. Modelado.
 5. Evaludación. No siempre puedes tener un conjunto de prueba, a lo mejor puedes sacar la importancia de variables y ver por sentido común si tiene sentido. Por otro lado, estaría bien que integremos la evaluación en producción, es decir, ir testando cómo va ese modelo. 
+
+
 
 ## Tipos de proyectos:
 
