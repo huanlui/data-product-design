@@ -104,4 +104,4 @@ baseline es un valor concreto de tuplas (variable_1,variable_2) que considerarem
 Ver:
 * Sobre todo,la presentación de este repo. 
 * https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa)
-
+* https://towardsdatascience.com/12-things-i-learned-during-my-first-year-as-a-machine-learning-engineer-2991573a9195
