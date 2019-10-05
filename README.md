@@ -155,3 +155,4 @@ Necesario que haya un red
 
 Si finalmente el modelo no da unos resultados buenísimos, podría también ser un proyeto de 10 si eres capaz de interpresetar por qué, etc.
 
+Kaggle es un sitio legítimo para extraer datos o ideas. Puedes hacer eso y sacar un 10. Sí que a veces suele ser un indicador de que la persona no se está preocupando mucho por el tema y al final sale, dejando de cumplir alguno de los criterios de evalución. 
