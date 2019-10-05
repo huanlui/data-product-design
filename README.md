@@ -153,4 +153,5 @@ Necesario que haya un red
 * Relevance and fit-to-purpose of the chosen technologies
 * UX and usability of the frontend
 
+Si finalmente el modelo no da unos resultados buenísimos, podría también ser un proyeto de 10 si eres capaz de interpresetar por qué, etc.
 
