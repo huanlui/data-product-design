@@ -127,3 +127,13 @@ Memoria concisa, pero que:
 
 Cualquier tecnología. Si tiene licencia, ok, pero le tenemos que conseguir licencia a los dos evaluadores (Dani e Isra).
 
+DEsde el 21 de octubre, van a estar monitorizando el repo. No quieren un solo commit al final. Incluir el documento y facilitarle la vida mucho. 
+
+#### Presentación
+
+También debe ser muy pragmática. Hay que venir a la hora a la que se nos convoque para hacer la presentación, no es necesario estar con todos. 
+
+REferencias y recomendaciones en Linkedin se pueden dar si el proyecto es bueno. Por eso el repo debería estar público (en su opinión) y bioen hecho. 
+
+Un repo normal es unon en el que sólo hay un commit. 
+
