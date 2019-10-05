@@ -105,3 +105,25 @@ Ver:
 * Sobre todo,la presentación de este repo. 
 * https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa)
 * https://towardsdatascience.com/12-things-i-learned-during-my-first-year-as-a-machine-learning-engineer-2991573a9195
+
+
+### Ideas clave para el TFM
+
+Subir tambien la presentacion inical para que la evaluen. 
+
+#### Memoria
+
+Memoria concisa, pero que:
+
+* Cuente la historia de cómo lo hiciste , tu idea inicial por qué tuviste que cambiarlo 
+* Dé la instrucciones claras para instalar los paquetes necesarios. Que sea facilísimo. Cómodo usar un virtual env incluyendo el fichero de configuración en el que se guardan las dependencias. Si usamos R podemos usar engtorno virtual de conde. Si es python, directamente los de python. 
+* Documento pragmatico: no hay necesidad de meter literatura, incluso lo pueden ver mal.
+* Metodología: es importante explicar por qué hemos elegido un modelo. Ese criterio es el núcleo de lo que van a evaluar. 
+* Tablas y gráficos es importante y los detalles los peudes poner aparte, puedes poner gráficos . En la memoria puede ser útil poner alguno para que se hagan a la idea. 
+* Conclusión: decir que cuál es la consecuencia, la interpretación. No confundir 
+* Si haces un front-end, pequeño manual de uso del front-end. O que sea super intuitivo, aunque nunca sobra el manual. 
+
+##### Tecnología
+
+Cualquier tecnología. Si tiene licencia, ok, pero le tenemos que conseguir licencia a los dos evaluadores (Dani e Isra).
+
