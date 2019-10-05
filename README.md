@@ -144,3 +144,13 @@ Incluir un buen Readme.
 Si lo hacemos en inglés no vamos a tener mejor nota que si es en español. Si hay errores en inglés, no pasa nada. PEro recomendado en inglés para que sea más público. 
 Necesario que haya un red
 
+#### Evaluation criteria (seis puntos, cada uno cuenta 1/6)
+
+* Clarity in the document, easiness to replicate work
+* Complexity ( In the data and the analysis methodologies. More complex is better)
+* Clarity and correctness of source code
+* Relevance and fit-to-purpose of the chosen analytical methods
+* Relevance and fit-to-purpose of the chosen technologies
+* UX and usability of the frontend
+
+
